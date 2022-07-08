@@ -242,5 +242,5 @@ class War:
 
         print('Game over!')
 
-
-War.start()
+while True:
+    War.start()
